@@ -1,0 +1,11 @@
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+
+train: E:\parttime\2023\Circular_spot_detect\datasets\train  # train images (relative to 'path') 4 images
+val: E:\parttime\2023\Circular_spot_detect\datasets\val  # val images (relative to 'path') 4 images
+
+# Classes
+names:
+  0: 0
+  1: 1
+
